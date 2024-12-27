@@ -1,2 +1,2 @@
-# moj-treci-projekat
-Ovo je moj treci projekat
+# Ovo je moj treci projekat na GitHubu
+Projekat ilustruje primenu HTMLa, CSSa i JavaScript programa u slucajnom generisanju poznatih citata iz knjiga iz oblasti popularne psihologije i licnog razvoja koje sam citao do sada. Slika u pozadini output.jpg kreirana je pomocu DeepAI alata za kreiranje slika pomocu upita(promptova). Slika simbolizuje neraskidivu vezu misli coveka sa njegovom okolinom, jer covek svojim mislima(input) utice na svoju okolinu(output), i obratno, okolina(input) podstice razvoj ideja i misli(output), dok sistem zupcanika simbolizuje harmoniju covekove misli i okoline, tj. svi zupcanici moraju pravilno funkcionisati da bi bili u skladu i da bismo ostvarili svoje ciljeve. Klikom na dugme Novi citat slucajno se generise citat iz liste citata koja je unapred zadata. Klikom na dugme Novi citat prikazuje se jedan citat ime autora i naziv knjige iz koje je citat izdvojen. 
